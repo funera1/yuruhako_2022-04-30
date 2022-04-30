@@ -1,6 +1,7 @@
 ---
 theme: bricks
 colorSchema: 'auto'
+download: true
 ---
 
 # 5分でわからない構文解析
