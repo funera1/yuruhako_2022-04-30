@@ -7,8 +7,10 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.30.3",
+    "@slidev/theme-bricks": "^0.0.2",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-geist": "^0.8.1"
   },
   "name": "yuruhako"
 }
